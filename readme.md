@@ -10,10 +10,10 @@
   <img alt="Desafio" src="assets/desafio.png" width="100%">
 </p>
 
-# 🚀 KeyCore Tech Challenge  
+# 🚀 KeyCore Tech Challenge 01
 ## Conversas → Emoções → Skills → Inteligência
 
-Bem-vindo ao desafio técnico da KeyCore.
+Bem-vindo ao primeiro desafio técnico da KeyCore.
 
 Queremos ver como você transforma uma ideia em um sistema real.
 
