@@ -10,6 +10,13 @@
   <img alt="Desafio" src="assets/desafio.png" width="100%">
 </p>
 
+> **Status: desafio encerrado**
+>
+> Este desafio está fechado para o ciclo seletivo atual da KeyCore Tech Hub. O repositório permanece disponível como referência educacional e material de portfólio.
+>
+> Recomendamos que você ainda o desenvolva: é uma excelente oportunidade para demonstrar raciocínio técnico, qualidade de implementação, integração e documentação em seu portfólio futuro.
+
+
 # 🚀 KeyCore Tech Challenge 01
 ## Conversas → Emoções → Skills → Inteligência
 
